@@ -140,10 +140,4 @@ By completing these exercises, you have gained advanced skills in network forens
 
 ## About Me
 
-I am a cybersecurity trainer with a passion for teaching and helping others learn essential cybersecurity skills through practical, hands-on projects. Connect with me on social media for more updates and resources:
-
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/rajneeshcyber)
-[![YouTube](https://img.icons8.com/fluent/48/000000/youtube-play.png)](https://www.youtube.com/@rajneeshcyber)
-[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/rajneeshcyber)
-
-Feel free to reach out with any questions or feedback. Happy learning!
+I am a cybersecurity enthusiast very passinate about technology and the ethical means of it protections.
